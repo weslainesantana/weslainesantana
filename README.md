@@ -1,4 +1,4 @@
-👋 Olá, sou a Wes!
+👋 Hello! I'm Wes!
 
 💻 Habilidades: 
 
