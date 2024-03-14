@@ -4,8 +4,8 @@ Software engineering student.
 
 💻 Skills: 
 
-- Front-end (em aperfeiçoamento): Javascript; CSS; HTML
-- Back-end (em aperfeiçoamento): Python
+- Front-end: Javascript; CSS; HTML
+- Back-end: Python
 
 ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/28px-Python-logo-notext.svg.png)
 ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/24px-JavaScript-logo.png)
