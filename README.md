@@ -2,8 +2,13 @@
 
 💻 Habilidades: 
 
-- Front-end (Nivel Básico): Javascript; CSS; HTML
-- Back-end (Nivel Básico): Python
+- Front-end (em aperfeiçoamento): Javascript; CSS; HTML
+- Back-end (em aperfeiçoamento): Python
+
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/28px-Python-logo-notext.svg.png)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/24px-JavaScript-logo.png)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/28px-HTML5_logo_and_wordmark.svg.png)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/20px-CSS3_logo_and_wordmark.svg.png)
   
 💼 Habilidades interpessoais: 
 
