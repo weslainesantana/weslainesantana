@@ -1,6 +1,8 @@
 👋 Hello! I'm Wes!
 
-💻 Habilidades: 
+Software engineering student. 
+
+💻 Skills: 
 
 - Front-end (em aperfeiçoamento): Javascript; CSS; HTML
 - Back-end (em aperfeiçoamento): Python
@@ -10,7 +12,7 @@
 ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/28px-HTML5_logo_and_wordmark.svg.png)
 ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/20px-CSS3_logo_and_wordmark.svg.png)
   
-💼 Habilidades interpessoais: 
+💼 Interpersonal skills: 
 
 - Ótimo desempenho em trabalho em equipe
 - Ótimas habilidades de comunicação
