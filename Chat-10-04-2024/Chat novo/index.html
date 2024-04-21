@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Online</title>
+    <link rel="stylesheet" href="chat.css">
+</head>
+<body>
+    <div id="chat-screen">
+        <header>
+            <h2>Chat on-line (laboratório)</h2>
+        </header>
+        <div class="message-list">
+            <div class="message-box"></div>
+            <div class="message-box laboratory-message">
+                <div class="msg-user"><strong>Laboratório :</strong></div>
+                <div class="msg-chat">Olá, seja bem vindo ao atendimento automático do Laboratório, logo um de nossos atendentes irá dar continuidade no seu atendimento</div>
+            </div>
+            <div class="message-box attendant-message">
+                <div class="msg-user"><strong>Atendente Sara:</strong></div>
+                <div class="msg-chat">Bom dia, sou a Sara! Darei continuidade no seu atendimento. Em que posso lhe ajudar?</div>
+            </div>
+        </div>
+        <form id="form-chat-send" action="#" method="post">
+            <div class="input-box">
+                <input type="text" id="user-message" placeholder="Digite sua mensagem...">
+                <button id="send-message-btn">Enviar</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
