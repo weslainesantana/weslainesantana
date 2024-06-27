@@ -16,8 +16,7 @@ Software engineering student.
 💼 Interpersonal skills: 
 
 - Ótimo desempenho em trabalho em equipe
-- Ótimas habilidades de comunicação
-- Saber lidar com prazos
+- Ótimas habilidades em comunicação
 
 <!---
 weslainesantana/weslainesantana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
