@@ -7,7 +7,7 @@
 
 ### Eu sou a Wes 👋
 
-#### Sou estudante de Engenharia de Software e atualmente estou explorando as áreas de Front-end e Back-end, com um foco especial em desenvolvimento Front-end. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. 
+#### Sou estudante de Engenharia de Software e atualmente estou explorando as áreas de Front-end e Back-end, com um foco especial em desenvolvimento Back-end. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. 
 
 ### Habilidades
 #### Front-end: HTML, CSS, JavaScript, React
