@@ -14,6 +14,11 @@
 #### Backend: Spring, Java
 #### Versioning: Git and GitHub
 
+### Soft Skills
+#### Effective communication and adaptability
+#### Time management
+
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=weslainesantana&theme=radical)
