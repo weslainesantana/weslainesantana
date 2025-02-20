@@ -5,14 +5,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=Hello World!" alt="Typing SVG" /></a>
 
-### Eu sou a Wes 👋
+### I'm Wes 👋
 
-#### Sou estudante de Engenharia de Software e atualmente estou explorando as áreas de Front-end e Back-end, com um foco especial em desenvolvimento Back-end. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. 
+#### I am a Software Engineering student and I am currently exploring the areas of Front-end and Back-end, with a special focus on Back-end development. I am always looking to learn new technologies and improve my skills. 
 
-### Habilidades
+### Skills
 #### Front-end: HTML, CSS, JavaScript, React
-#### Back-end: Spring, Java
-#### Versionamento: Git e GitHub
+#### Backend: Spring, Java
+#### Versioning: Git and GitHub
 
 
 
