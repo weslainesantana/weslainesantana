@@ -1,8 +1,3 @@
-<p align="center"> 
-  VISITAS<br> <br>
-  <img src="https://profile-counter.glitch.me/weslainesantana/count.svg"/>
-</p>
-
 ### I'm Wes 👋
 
 #### I am a Software Engineering student and I am currently exploring the areas of Front-end and Back-end, with a special focus on Back-end development. I am always looking to learn new technologies and improve my skills. 
