@@ -6,15 +6,10 @@
 
 #### I am a Software Engineering student with experience in Front-end and Back-end development, as well as manual and automated testing. I am passionate about building efficient, scalable applications and continuously improving my skills by exploring new technologies and development practices.
 
-### 🛠️ Skills
-#### Front-end: HTML, CSS, JavaScript, React
-#### Backend: Spring, Java
-#### Versioning: Git and GitHub
-
 ### 💡 Soft Skills
-#### Effective communication and adaptability
+#### Teamwork and collaboration • Effective communication • Adaptability • Problem-solving • Continuous learning • Responsibility and organization
 
-### 🎯 Technologies I use
+### 🎯 Technologies I 🛠️ Skills
 
 <div align="center">
 
