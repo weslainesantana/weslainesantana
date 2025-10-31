@@ -1,17 +1,32 @@
-### I'm Wes 👋
+<h1 align="center"> Hi there! I'm Weslaine Santana</h1>
 
-#### I am a Software Engineering student and I am currently exploring the areas of Front-end and Back-end, with a special focus on Back-end development. I am always looking to learn new technologies and improve my skills. 
+<p align="center">
+  <em> 💻 Software Engineering Student | ✅ QA & Test Automation | ⚙️ Back-end Developer </em>
+</p>
 
-### Skills
+#### I am a Software Engineering student with experience in Front-end and Back-end development, as well as manual and automated testing. I am passionate about building efficient, scalable applications and continuously improving my skills by exploring new technologies and development practices.
+
+### 🛠️ Skills
 #### Front-end: HTML, CSS, JavaScript, React
 #### Backend: Spring, Java
 #### Versioning: Git and GitHub
 
-### Soft Skills
+### 💡 Soft Skills
 #### Effective communication and adaptability
+
+### 🎯 Technologies I use
+
+<div align="center">
+
+```bash
+> Languages : JavaScript • TypeScript • Java • SQL
+> Frontend : React • Next.js • HTML5 • CSS3 
+> Backend : Node.js • REST APIs 
+> Databases : MySQL 
+> Cloud/DevOps: Docker • Git • GitHub • CI/CD
+> Tools/IDEs : VSCode • Figma
+```
+</div>
+
 #### Time management
-
-
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=weslainesantana&theme=radical)
