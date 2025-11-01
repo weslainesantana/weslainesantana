@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! I'm Weslaine Santana</h1>
 
 <p align="center">
-  <em> 💻 Software Engineering Student | ✅ QA & Test Automation | ⚙️ Learning back-end development </em>
+  <em> 💻 Software Engineering Student | ✅ QA & Test Automation | ⚙️ Learning Back-end Development </em>
 </p>
 
 #### I am a Software Engineering student with experience in Front-end and Back-end development, as well as manual and automated testing. I am passionate about building efficient, scalable applications and continuously improving my skills by exploring new technologies and development practices.
